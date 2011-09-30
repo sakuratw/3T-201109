@@ -3,4 +3,4 @@ mvn archetype:generate \
  -DarchetypeArtifactId=jmx-sample-archetype \
  -DarchetypeVersion=1.0-SNAPSHOT \
  -DgroupId=fr.soat.demo \
- -DartifactId=tmp3 \
+ -DartifactId=tmp3 
